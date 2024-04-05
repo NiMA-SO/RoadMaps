@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c2c674b.css",
+    "main.js": "/static/js/main.071b2263.js",
+    "static/media/Inter-VariableFont.ttf": "/static/media/Inter-VariableFont.853e01975d2783d9fa29.ttf",
+    "static/media/lalezar.ttf": "/static/media/lalezar.241ca811c53de4ed36a4.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.5c2c674b.css.map": "/static/css/main.5c2c674b.css.map",
+    "main.071b2263.js.map": "/static/js/main.071b2263.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2c674b.css",
+    "static/js/main.071b2263.js"
+  ]
+}
